@@ -1,6 +1,9 @@
 package main
 
-import {
+import{
 	"fmt"
 }
 
+func messagerandy{
+	fmt.println("Hello Randyxx")
+}
